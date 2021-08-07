@@ -19,4 +19,3 @@ I would like to thank their creators for their hard work and encourage readers t
 # Special Thanks
 
 Special thanks are due to the people who helped bring this to life: Simon Linford, David Smith, and Leland Kusmer. They provided invaluable feedback and editing advice throughout the process.
-
