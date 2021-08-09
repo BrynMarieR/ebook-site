@@ -20,8 +20,8 @@ Both of these collections tend towards simple, commonly-rung quarter peals. Many
 
 If you are interested in finding other compositions with which to practice, I can recommend the following online resources:
 
-1. [Composition Library](complib.org), run by Graham John, has an extensive collection and a good search engine.
-2. [ringing.org](ringing.org), run by Don Morrison, also has an extensive (though perhaps slightly more curated) collection all very well-organized under different headings and easy to browse through.
+1. [Composition Library](https://complib.org), run by Graham John, has an extensive collection and a good search engine.
+2. [ringing.org](https://ringing.org), run by Don Morrison, also has an extensive (though perhaps slightly more curated) collection all very well-organized under different headings and easy to browse through.
 
 I almost always check both places when looking for a composition. 
 
