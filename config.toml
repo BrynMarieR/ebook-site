@@ -2,7 +2,7 @@ baseUrl = "https://callingitround.cccbr.org.uk/"
 languageCode = "en-us"
 title = "Calling It Round"
 theme = "book"
-publishDir = "docs/"
+publishDir = "/"
 
 [params]
   BookLogo = 'favicon.png'
