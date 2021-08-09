@@ -1,0 +1,432 @@
+{
+    "1_1001": {
+        "question": "The caller calls 'Bob!'. The row where the treble is leading at backstroke is 132456. Which bell made the bob?",
+        "possible_answers": {
+            "a": {
+                "label": "The 2",
+                "response": "Not quite. The 2 is in thirds place at the backstroke, which means it must have run out during the bob; it couldn't have made the bob.",
+                "correct": ""
+            },
+            "b": {
+                "label": "The 4", 
+                "response": "Yes, that's it! The 4 is in fourths place at the backstroke, so it must have made fourths over the lead end.",
+                "correct": "yes"
+            },
+            "c": {
+                "label": "The 6",
+                "response": "The 6 is at the back of the row and is unaffected by the bob; it did not make the bob.",
+                "correct": ""
+            }
+        }
+    },
+    "1_1002": {
+        "question": "The caller calls 'Single!'. The row where the treble is leading at handstroke is 124365. Who will make 3rds?",
+        "possible_answers": {
+            "a": {
+                "label": "The 2",
+                "response": "Not quite. The 2 is in seconds place at the handstroke and will make seconds during the single.",
+                "correct": ""
+            },
+            "b": {
+                "label": "The 3", 
+                "response": "No, the 3 will make fourths during the single since it is in fourths place at the handstroke.",
+                "correct": ""
+            },
+            "c": {
+                "label": "The 4",
+                "response": "Exactly. The 4 will make thirds over the lead end.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_1003": {
+        "question": "The caller calls 'Single!'. The row where the treble is leading at handstroke is 124365. What is the resulting (backstroke) row, after the single is executed?",
+        "possible_answers": {
+            "a": {
+                "label": "123456",
+                "response": "This is rounds, and is what would happen after a plain lead; that is, after the 2 makes seconds and all other bells dodge. How should a single affect the bells in 3 and 4?",
+                "correct": ""
+            },
+            "b": {
+                "label": "142356", 
+                "response": "This row would result after a bob was called, but what about a single?",
+                "correct": ""
+            },
+            "c": {
+                "label": "124356",
+                "response": "That's right. This trick of using a single to cross over the 34 is often used in compositions of Plain Bob (and other methods) because it keeps most bells in their home positions and it maintains much of the music of the plain course. There's another reason, too, having to do with falseness, but that will be covered more later!",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_1004": {
+        "question": "True or False: The rounds lead head (123456) is contained in the first lead of Plain Bob Minor.",
+        "possible_answers": {
+            "a": {
+                "label": "True",
+                "response": "Many people believe that the rounds lead head is contained within the first lead of the method. However, bear in mind that others do not.",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "False", 
+                "response": "Many people believe that the rounds lead head is not contained within the first lead of the method. However, bear in mind that others do think it is.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_2001": {
+        "question": "What calls were used in this touch?",
+        "possible_answers": {
+            "a": {
+                "label": "Bobs only",
+                "response": "Yes!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Bobs and singles",
+                "response": "Try another listen; did you hear any singles being called?",
+                "correct": ""
+            },
+            "c": {
+                "label": "Singles only",
+                "response": "Not quite; does Plain Bob Doubles have singles?",
+                "correct": ""
+            }
+        }
+    },
+    "1_2002": {
+        "question": "When (in the row) was 'Go, Bob Doubles' said?",
+        "possible_answers": {
+            "a": {
+                "label": "Just before the treble's handstroke in 1 during rounds",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Just before the treble's backstroke in 2 during rounds",
+                "response": "Does the treble have a backstroke in 2 during rounds?",
+                "correct": ""
+            },
+            "c": {
+                "label": "Just before the treble's backstroke in 1 during rounds",
+                "response": "Not quite; try another listen.",
+                "correct": ""
+            }
+        }
+    },
+    "1_2003": {
+        "question": "When (in the row) was 'Bob' said?",
+        "possible_answers": {
+            "a": {
+                "label": "Just before the treble's backstroke in 2",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Just before the treble's handstroke lead",
+                "response": "Technically true, but be more precise...",
+                "correct": ""
+            },
+            "c": {
+                "label": "Just before the treble's backstroke lead",
+                "response": "That would be a bit too late!",
+                "correct": ""
+            }
+        }
+    },
+    "1_2004": {
+        "question": "Go, next time!", 
+        "possible_answers": {
+            "a": {
+                "label": "On time",
+                "response": "'Go, next time!' was said halfway through the row where the treble was leading at handstroke. This timing is within the realm of acceptable!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Not quite right",
+                "response": "The timing of the call gives less than a whole pull’s warning, so it is reasonable to think that it's a bit off.  However, some may prefer to call it at the later time, especially if the bells are light or not too loud; both timing choices can be acceptable depending on the situation.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_2005": {
+        "question": "First bob:", 
+        "possible_answers": {
+            "a": {
+                "label": "On time",
+                "response": "Yes, it was given with a whole pull's warning.",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Not quite right",
+                "response": "Try another listen; the call was given with a whole pull's warning when the treble was in 2.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_2005": {
+        "question": "Second bob:", 
+        "possible_answers": {
+            "a": {
+                "label": "On time",
+                "response": "Hmm, try another listen. How much warning was given?",
+                "correct": ""
+            },
+            "b": {
+                "label": "Not quite right",
+                "response": "Right. 'Bob' was said while the treble was in 3rds place, not 2nds; a whole row too early! This timing can be particularly confusing for some methods, like Grandsire or Stedman, and it is important not to get into the habit of giving calls too early.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_2006": {
+        "question": "That's all:", 
+        "possible_answers": {
+            "a": {
+                "label": "On time",
+                "response": "This one is a bit nuanced and up to personal interpretation. The 'That's all' didn’t give a whole pull's warning. That said, you may see this from time to time; not all conductors choose to give a whole pull's warning with 'That’s all', especially if it comes round at hand or in an otherwise non-standard way.",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Not quite right",
+                "response": "This one is a bit nuanced and up to personal interpretation. The 'That's all' didn’t give a whole pull's warning. That said, you may see this from time to time; not all conductors choose to give a whole pull's warning with 'That’s all', especially if it comes round at hand or in an otherwise non-standard way.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_2007": {
+        "question": "Stand next", 
+        "possible_answers": {
+            "a": {
+                "label": "On time",
+                "response": "Hm, try another listen. Was enough warning given?",
+                "correct": ""
+            },
+            "b": {
+                "label": "Not quite right",
+                "response": "This call was given too late in the row to give the bells sufficient warning (these ringers, happily, managed to set their bells just fine!)",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_demyst1": {
+        "question": "If I make a call at In (I), the tenor will run out at the lead end.", 
+        "possible_answers": {
+            "a": {
+                "label": "True",
+                "response": "Not quite. Review the definitions of calling positions above.",
+                "correct": ""
+            },
+            "b": {
+                "label": "False",
+                "response": "That's right. The tenor will run in at the lead end if you make a call at In (I).",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_demyst2": {
+        "question": "If I make a call at Wrong (W), the tenor will be in 6ths place after the dodge.", 
+        "possible_answers": {
+            "a": {
+                "label": "True",
+                "response": "Not quite. What happens at a Home (H)? How is this different to a Wrong (W)? Will the tenor be in 6ths place before or after the dodge?",
+                "correct": ""
+            },
+            "b": {
+                "label": "False",
+                "response": "You're correct. The call is made while the tenor is in fifths place, the tenor continues hunting up to 6ths place, and then dodges to 5 at the lead end.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_demyst3": {
+        "question": "If I make a call at Fourths (F), the tenor will make the bob.", 
+        "possible_answers": {
+            "a": {
+                "label": "True",
+                "response": "Yes!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "False",
+                "response": "Not quite. Review the definition of Fourths (F).",
+                "correct": ""
+            }
+        }
+    },
+    "1_demyst4": {
+        "question": "How many calling positions are there in Plain Bob Minor?", 
+        "possible_answers": {
+            "a": {
+                "label": "4",
+                "response": "Not quite. Try taking a look at the blue line above. How many different positions in the blue line are there to make a call?",
+                "correct": ""
+            },
+            "b": {
+                "label": "5",
+                "response": "That's right.",
+                "correct": "yes"
+            },
+            "c": {
+                "label": "6",
+                "response": "Not quite. Can you list all of the calling positions for Plain Bob Minor?",
+                "correct": ""
+            }
+        }
+    },
+    "1_demyst5": {
+        "question": "How many calling positions are there in Plain Bob Doubles?", 
+        "possible_answers": {
+            "a": {
+                "label": "4",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "5",
+                "response": "Not quite. How many place bells are there for Plain Bob Doubles? Can there be more calling positions than place bells?",
+                "correct": ""
+            },
+            "c": {
+                "label": "6",
+                "response": "Not quite. Try writing out all of the calling positions for Plain Bob Doubles.",
+                "correct": ""
+            }
+        }
+    },
+    "1_learnqp1": {
+        "question": "Think about the two touches we dissected above. Is the number of parts always equal to the number of courses?",
+        "possible_answers":{
+            "a": {
+                "label": "Yes",
+                "response": "Not quite. How many courses were there in the ppbppb touch? How many parts? Remember that the number of parts is generally the number of times one can repeat the simplest, smallest element to get the whole touch.",
+                "correct": ""
+            },
+            "b": {
+                "label": "No",
+                "response": "That's right. Sometimes the number of parts will be the same as the number of courses; sometimes not.",
+                "correct": "yes"
+            }
+        }
+    },
+    "2_less1": {
+        "question": "The tenor is dodging 5-6 down at the lead end (in other words: it will be 6ths place bell). What is this calling position called?", 
+        "possible_answers": {
+            "a": {
+                "label": "Wrong",
+                "response": "Not quite. Try checking the diagram at the top again.",
+                "correct": ""
+            },
+            "b": {
+                "label": "Before",
+                "response": "Not quite. Was the tenor coursing before the treble?",
+                "correct": ""
+            },
+            "c": {
+                "label": "Middle",
+                "response": "That's right! It's Plain Bob Major, and 8 take away 2 is 6, so the Middle is when the tenor is becoming 6ths place bell.",
+                "correct": "yes"
+            }
+        }
+    },
+    "2_less2": {
+        "question": "A bob is called at the Before calling position. What does the tenor do?", 
+        "possible_answers": {
+            "a": {
+                "label": "Run in",
+                "response": "the tenor was coursing before the treble, not after.",
+                "correct": ""
+            },
+            "b": {
+                "label": "Run out",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "c": {
+                "label": "Make",
+                "response": "Not quite. Try checking the diagram at the top again.",
+                "correct": ""
+            }
+        }
+    },
+    "2_co1": {
+        "question": "When the 4 is hunting up, what bells does it pass, and in what order? Try writing it out yourself before looking at the possible answers below.", 
+        "possible_answers": {
+            "a": {
+                "label": "2468753",
+                "response": "Does the 4 pass itself? It seems you may have put down the same answer as was right for the treble.",
+                "correct": ""
+            },
+            "b": {
+                "label": "1357268",
+                "response": "Try following the path of the 4 as it hunts up. It doesn't cross the treble first; what does it cross first instead?",
+                "correct": ""
+            },
+            "c": {
+                "label": "6875312",
+                "response": "That's right!",
+                "correct": "yes"
+            }
+        }
+    },
+    "2_co2": {
+        "question": "When the 3 is hunting down, what bells does it pass, and in what order? Try writing it out yourself before looking at the possible answers below.", 
+        "possible_answers": {
+            "a": {
+                "label": "1246875",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "4687512",
+                "response": "This is very close, and it is an acceptable coursing order, but it is not the order in which the 3 passes the bells while hunting down.",
+                "correct": ""
+            },
+            "c": {
+                "label": "2468751",
+                "response": "Not quite!",
+                "correct": ""
+            }
+        }
+    },
+    "2_co3": {
+        "question": "When the 8 is hunting down, what bells does it pass, and in what order? Try writing it out yourself before looking at the possible answers below.", 
+        "possible_answers": {
+            "a": {
+                "label": "2467531",
+                "response": "Not quite; that is a correct coursing order, but is it the order in which the 8 passes bells when the 8 is hunting down?",
+                "correct": ""
+            },
+            "b": {
+                "label": "7531246",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "c": {
+                "label": "8642135",
+                "response": "Not quite; the 8 can't pass itself!",
+                "correct": ""
+            }
+        }
+    },
+    "2_co4": {
+        "question": "What's the coursing order from the heaviest bell, for the first lead? Include the treble.", 
+        "possible_answers": {
+            "a": {
+                "label": "13524",
+                "response": "That's Queens (missing out the 6), not the coursing order.",
+                "correct": ""
+            },
+            "b": {
+                "label": "246531",
+                "response": "This is the coursing order from the treble, which is not the heaviest bell.",
+                "correct": ""
+            },
+            "c": {
+                "label": "53124",
+                "response": "That's right!",
+                "correct": "yes"
+            }
+        }
+    }
+}

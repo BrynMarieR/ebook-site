@@ -1,0 +1,37 @@
+<script type="text/javascript">
+  function checkAnswer(id,
+  			           answer) {
+    answerLabel = document.getElementById('label'+id);
+	rawinp = document.getElementById(id).value;
+	var inp = rawinp.trim();
+    console.log(inp)
+	if (inp === answer) {
+		answerLabel.innerText = "That's right!";
+		answerLabel.style.color = "blue";
+    } else if (inp === "") {
+        answerLabel.innerText = "Please type in the box and then submit.";
+        answerLabel.style.color = "black";
+    } else {
+		answerLabel.innerText = "Not quite right...";
+		answerLabel.style.color = "red";
+	}
+  }
+</script>
+
+{{ $id := .Get "id" }}
+{{ $answer := .Get "answer" }}
+{{ $title := .Get "title" }}
+{{ $lab := .Get "label" }}
+<form accept-charset="UTF-8" type="number" onsubmit="checkAnswer('{{ $id }}',
+'{{ $answer }}'); return false;"><fieldset>
+        <legend>{{ $title | default "Exercise" }}</legend>
+        {{ .Inner }}
+        <p>
+          <label>{{ $lab | default "Coursing Order" }}</label>
+          <input type="text" id="{{ $id }}" pattern="[0-9]+?|[a-fp]+?">
+          <button onsubmit="return false;">Submit</button>
+        </p>
+        <p>
+        	<label id="label{{ $id }}"></label>
+        </p>
+</fieldset></form>
