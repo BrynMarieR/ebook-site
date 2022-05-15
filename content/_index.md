@@ -4,7 +4,7 @@ type: docs
 ---
 
 # Calling It Round
-Bryn Reinstadler
+Bryn Reimer
 
 ---
 
